@@ -1,0 +1,13 @@
+
+Atividade Flexbox(procure 3 imagens para a atividade)
+
+1. No head do html: utf-8, link com css, link com ícone, descrição, palavra-chave, autor
+2. No body: estruturado com .container, header, nav, main, section, aside, footer (vc poderá criar mais caixas como fizemos com .conteúdo)
+2. Formate toda a estrutura com CSS, utilize cores de fundo ou não, cores de fonte, margens, padding, flexbox (display:flex)
+4. No header colocar uma imagem e o nome da empresa (um do lado do outro)
+5. No main coloque section e aside lado a lado
+6. No section insira texto de parágrafo e imagem
+
+
+Pode ser feito em dupla
+Guarde o conteúdo, qdo o teams for liberado será enviado
