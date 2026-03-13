@@ -45,7 +45,7 @@ li {
 }
 
 main {
-  width: 90%;
+  flex: 4;
   background-color: blanchedalmond;
   border-style: double;
   display: flex;
@@ -74,6 +74,7 @@ section {
   padding: 10px;
   width: 80%;
   border-style: solid;
+  flex: 3;
 }
 
 aside {
@@ -82,29 +83,30 @@ aside {
   width: 20%;
   border-style: solid;
   margin-left: 20px;
+  flex: 1;
 }
 
 header .logo img {
   width: 90%;
 }
 
-ul .menu-lateral-esqueda ul {
+.menu-lateral ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-ul .menu-lateral-esqueda li {
+.menu-lateral li {
   border-bottom: 1px solid brown;
 }
 
-ul .menu-lateral-esqueda a {
+.menu-lateral a {
   display: block;
   padding: 10px;
   color: white;
   text-decoration: none;
 }
 
-ul .menu-lateral-esqueda a:hover {
+.menu-lateral a:hover {
   background-color: crimson;
 }
