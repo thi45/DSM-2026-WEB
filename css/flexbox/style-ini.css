@@ -34,7 +34,8 @@ header {
 }
 
 nav {
-  width: 25%;
+  border-radius: 15px;
+  flex: 1;
   background-color: blanchedalmond;
   border-style: double;
   margin-right: 10px;
@@ -45,7 +46,7 @@ li {
 }
 
 main {
-  flex: 4;
+  flex: 5;
   background-color: blanchedalmond;
   border-style: double;
   display: flex;
@@ -60,7 +61,6 @@ footer {
 }
 
 header,
-nav,
 main,
 footer,
 section,
@@ -103,7 +103,6 @@ header .logo img {
 .menu-lateral a {
   display: block;
   padding: 10px;
-  color: white;
   text-decoration: none;
 }
 
