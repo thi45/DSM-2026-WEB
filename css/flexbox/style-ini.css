@@ -88,23 +88,23 @@ header .logo img {
   width: 90%;
 }
 
-.menu-lateral-esqueda ul {
+nav .menu-lateral-esqueda ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-.menu-lateral-esqueda li {
+nav .menu-lateral-esqueda li {
   border-bottom: 1px solid brown;
 }
 
-.menu-lateral-esqueda a {
+nav .menu-lateral-esqueda a {
   display: block;
   padding: 10px;
   color: white;
   text-decoration: none;
 }
 
-.menu-lateral-esqueda a:hover {
+nav .menu-lateral-esqueda a:hover {
   background-color: crimson;
 }
