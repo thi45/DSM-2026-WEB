@@ -143,3 +143,33 @@ header .logo img {
 .menu-lateral a:hover {
   background-color: #AC23EB80;
 }
+
+
+table {
+border-collapse: collapse;
+width: 100%;
+}
+td, th {
+  border: 1px solid black;
+}
+tbody {
+  background-color: #726EEB;
+  text-align: center;
+}
+tfoot {
+  background-color: #726EEB;
+  text-align: center;
+  color: aliceblue;
+}
+thead {
+  background-color: #726EEB;
+}
+thead, th {
+padding: 5px;
+}
+.info {
+  color:black;
+}
+td {
+  padding: 5px;
+}
